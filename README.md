@@ -1,7 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio!
+
 # About me
 Hello folks! I'm Ameya Salvi, a part of the MISM-BIDA program & welcome to my public portfolio for Telling Stories with Data! 
-While I'm extremely passionate about Data & Visuals, I'm strive to develop on the best practices and exploring my own personal style :smiley:
+While I'm extremely passionate about Data & Visuals, I'm strive to develop on the best practices and exploring my own personal style 
+:smiley:
 
 # What I hope to learn 
 While traditional education typically draws a distinct line between creative storytelling and technical analysis, the modern professional world also values those who can cross between the two: data visualization sits right in the middle of analysis and visual storytelling. Thus, I hope to dwell upon the saying: *storytelling with a purpose*
