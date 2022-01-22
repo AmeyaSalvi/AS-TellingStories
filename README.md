@@ -11,9 +11,8 @@ While traditional education typically draws a distinct line between creative sto
 My aim is to master the skill of _visual art_ that grabs our interest and keeps our eyes on the message. 
 While we know that the data and the visuals need to work together, I attempt everday is to master the art of combining great analysis with great storytelling.
 
-
 # Portfolio
 My cool work!
-
-
-
+- Task #1
+- Task #2
+- Task #3
