@@ -14,12 +14,10 @@ While we know that the data and the visuals need to work together, I attempt eve
 
 # Portfolio
 My cool work!
-- Task #1
+##_Task #1: Assignment: Visualizing government debt_: [Click here](Visual.md)
 - Task #2
 - Task #3
 
-Visual number 1:
-<div class="flourish-embed flourish-chart" data-src="visualisation/8558657"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[link is here] (Visual1)
+
 [hi](Visual.md)
