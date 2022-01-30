@@ -6,8 +6,11 @@ Here, we use the OECD's General government debt data and analyse the given featu
 <iframe src="https://data.oecd.org/chart/6Bkz" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bkz" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-> ## Part 2: Working with Flourish
- Here, we make use of an open-source online tool called Flourish, and create a sparklines visualization. This visual allows us to compare the GDP trend across years and across diffrent countries, as well. The visual looks like the below: 
+> ## Part 2: Working with Flourish: Sparklines
+ Here, we make use of an open-source online tool called Flourish, and create a sparkline visualization. This visual allows us to compare the Debt-to-GDP trend across years and across diffrent countries, as well. The visual looks like the below: 
  
 <div class="flourish-embed flourish-chart" data-src="visualisation/8558657"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+> ## Part 3: Working with Flourish: Bubble chart
+Here, using Flourish, I have created a bubble visualization. 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/8565091"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
