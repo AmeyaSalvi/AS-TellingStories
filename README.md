@@ -18,6 +18,3 @@ My cool work!
 - Task #2
 - Task #3
 
-
-
-[hi](Visual.md)
