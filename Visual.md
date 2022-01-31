@@ -17,7 +17,6 @@ Here, using Flourish, I have created a bubble visualization. The comparison is a
 The visual looks like the below: 
  
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8565091"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-</br>
 
 # _Synopsis:_
 ## _Different methods of visualization: Comparison_ 
