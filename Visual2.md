@@ -103,7 +103,7 @@ Using Tableau, I tried encorportating all the above factors in creating this:
 
 <img width="852" alt="Screenshot 2022-02-07 182509" src="https://user-images.githubusercontent.com/43436738/152889273-d44aef32-4120-4a62-b022-a0cab6efc100.png">
 
-> ### Tableau Dashboaed view:
+> ### Tableau Dashboard view:
 
 <div class='tableauPlaceholder' id='viz1644261130238' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DoesWealthaffectHealth&#47;DoesWealthaffectHealth' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
