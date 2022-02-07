@@ -100,8 +100,8 @@ Using Tableau, I tried encorportating all the above factors in creating this:
 <script type='text/javascript'>                    
 var divElement = document.getElementById('viz1644253961593');                    
 var vizElement = divElement.getElementsByTagName('object')[0];                    
-if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='50px';} 
-else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='500px';}
+if ( divElement.offsetWidth > 800 ) { vizElement.style.width='500px';vizElement.style.height='500px';} 
+else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='500px';vizElement.style.height='500px';}
 else { vizElement.style.width='100%';vizElement.style.height='500px';}                     
 var scriptElement = document.createElement('script');                    
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
