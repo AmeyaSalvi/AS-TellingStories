@@ -4,7 +4,7 @@
 
 > ## Step 1: The original visualization
 ### The visual chosen is as shown below:
-The link for the same is given here: https://blog.datawrapper.de/weekly-chart-scatterplot-lifeexpectancy-rutger-bregman/
+The link for the same is given [here](https://blog.datawrapper.de/weekly-chart-scatterplot-lifeexpectancy-rutger-bregman/)
 
 <img width="700" alt="OGImg" src="https://user-images.githubusercontent.com/43436738/152729852-10e60d12-fe5a-4b9e-be79-2daddfde1108.png">
 
@@ -81,20 +81,20 @@ Is there anything you would change or do differently?
 What did you like?
 > The visual allows me to perform comparison across years and countries, and clearly see the relation between wealth and health. The use of colours seem really good. Also, I feel that the age buckets is a good way to compare these visuals. 
 
-#### Feedback review/ My take-aways! :D
+#### Feedback review / My take-aways! :D
 
 ### The responses that I received above helped to me make the following changes:
 
-Specifications (Bubbles & Map colours)
-- I added the bubble size and map blue gradient references as legends, making the visualisations even more clearer and easier to interpret.
+-Specifications (Bubbles & Map colours)
+ -I added the bubble size and map blue gradient references as legends, making the visualisations even more clearer and easier to interpret.
 
-De-cluttering the visualisation
-- I decided to filter out the visualisation so that it remained de-cluttered. And added the criteria as a filter that the audience can play with.
+-De-cluttering the visualisation
+ -I decided to filter out the visualisation so that it remained de-cluttered. And added the criteria as a filter that the audience can play with.
 
 
-> ## Step 5: My re-design/Data visual
+> ## Step 5: My re-design / Data visualization (Using Tableau)
 
-Some things that aren't being captured here are: trends and patterns over regions or continents is something, that could be really useful. In the map, we could easily spot those trends. Also, direct comparison between the two years would be done more seamlessly that way. 
+Some things that weren't being captured here are: trends and patterns over regions or continents is something, that I thought could be really useful. In the map, we could easily spot those trends. Also, direct comparison between the two years would be done more seamlessly that way. 
 - Colors: Better use of colors in my opinion would be different colored representation for each age bucket. Additionally, for population I could incorporate a single color base  as a gradient that would indicate densely populated regions. 
 - Layout: The layout would still be a comparison between the two years (1800 and 2015), which two maps being involved. 
 
