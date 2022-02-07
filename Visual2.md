@@ -89,9 +89,9 @@ Feedback review:
 ### The responses that I received above helped to me make the following changes:
 
 Specifications (Bubbles & Map colours)
-> I added the bubble size and map blue gradient references as legends, making the visualisations even more clearer and easier to interpret.
+- I added the bubble size and map blue gradient references as legends, making the visualisations even more clearer and easier to interpret.
 
 De-cluttering the visualisation
-> I decided to filter out the visualisation so that it remained de-cluttered. And added the criteria as a filter that the audience can play with.
+- I decided to filter out the visualisation so that it remained de-cluttered. And added the criteria as a filter that the audience can play with.
 
 
