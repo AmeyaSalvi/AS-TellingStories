@@ -4,4 +4,4 @@
 
 > ## Step 1: The original visualization
 > The visual chosen is as shown below:
-[link](./C:/CMU/Spring 2022/Telling Stories with Data/Imgs/OGImg.png)
+https://github.com/github/AS-TellingStories/OGImg.png 
