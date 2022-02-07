@@ -11,7 +11,7 @@ The link for the same is given here: https://blog.datawrapper.de/weekly-chart-sc
 
 > ## Step 2: My process for re-visualization
 
-1. Changing the title
+1. *Changing the title*
 The current heading 'Every country has a higher life expectancy than in 1800' fails to correlate the two important measured values used here for comparison: The GDP and Life-expectancy. Currently, the only interpretation that can come out of this title refers to the life-expectancy. 
 
 2. Choosing the correct visual
@@ -99,9 +99,9 @@ De-cluttering the visualisation
 <script type='text/javascript'>                    
 var divElement = document.getElementById('viz1644253961593');                    
 var vizElement = divElement.getElementsByTagName('object')[0];                    
-if ( divElement.offsetWidth > 800 ) { vizElement.style.width='850px';vizElement.style.height='650px';} 
-else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='850px';vizElement.style.height='650px';}
-else { vizElement.style.width='100%';vizElement.style.height='650px';}                     
+if ( divElement.offsetWidth > 800 ) { vizElement.style.width='850px';vizElement.style.height='50px';} 
+else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='850px';vizElement.style.height='500px';}
+else { vizElement.style.width='100%';vizElement.style.height='500px';}                     
 var scriptElement = document.createElement('script');                    
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
