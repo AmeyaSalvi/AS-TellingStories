@@ -94,31 +94,11 @@ De-cluttering the visualisation
 
 > ## Step 5: My re-design/Data visual
 
+Some things that aren't being captured here are: trends and patterns over regions or continents is something, that could be really useful. In the map, we could easily spot those trends. Also, direct comparison between the two years would be done more seamlessly that way. 
+- Colors: Better use of colors in my opinion would be different colored representation for each age bucket. Additionally, for population I could incorporate a single color base  as a gradient that would indicate densely populated regions. 
+- Layout: The layout would still be a comparison between the two years (1800 and 2015), which two maps being involved. 
+
 Using Tableau, I tried encorportating all the above factors in creating this:
-
-<div class='tableauPlaceholder' id='viz1644253961593' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DoesWealthaffectHealth&#47;DoesWealthaffectHealth' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
-<script type='text/javascript'>                    
-var divElement = document.getElementById('viz1644253961593');                    
-var vizElement = divElement.getElementsByTagName('object')[0];                    
-if ( divElement.offsetWidth > 800 ) { vizElement.style.width='800px';vizElement.style.height='500px';} 
-else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='800px';vizElement.style.height='500px';}
-else { vizElement.style.width='100%';vizElement.style.height='500px';}                     
-var scriptElement = document.createElement('script');                    
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
-
-
-<div class='tableauPlaceholder' id='viz1644258699993' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DoesWealthaffectHealth&#47;DoesWealthaffectHealth' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
-<script type='text/javascript'>                  
-var divElement = document.getElementById('viz1644258699993');                    
-var vizElement = divElement.getElementsByTagName('object')[0];                    
-if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.maxWidth='1704px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';vizElement.style.maxHeight='945px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.maxWidth='1704px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';vizElement.style.maxHeight='945px';} else { vizElement.style.width='100%';vizElement.style.height='1027px';}                     
-var scriptElement = document.createElement('script');                    
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-vizElement.parentNode.insertBefore(scriptElement, vizElement);               
-</script>
-
 
 <div class='tableauPlaceholder' id='viz1644261130238' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DoesWealthaffectHealth&#47;DoesWealthaffectHealth' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
