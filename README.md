@@ -16,5 +16,5 @@ While we know that the data and the visuals need to work together, I attempt eve
 My cool work!
 - _Task #1: Visualizing government debt_: [Click here](Visual.md)
 - _Task #2  Re-designing a visual_: [Click here](Visual2.md)
-- _Task #2  Re-designing a visual_: [Click here](FinalProject.md)
+- _Task #2 Final Project_: [Click here](FinalProject.md)
 
