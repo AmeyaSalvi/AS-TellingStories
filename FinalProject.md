@@ -7,8 +7,8 @@
 _How are women represnted in the news?_
 #### Today, research has suggested that women are significantly less likely to make the news compared to men. In the most recent report published by the Global Media Monitoring Project (GMMP), the largest and longest running research on gender in the world’s news media, women were found to make up just 24% of news subjects and sources reported. According to this report, this number has not changed since 2010. 
 
-So, if women are underrepresented in the news to begin with, what does it look like when women do make headlines? 
-And how have headlines about women changed over time? 
+_So, if women are underrepresented in the news to begin with, what does it look like when women do make headlines? 
+And how have headlines about women changed over time?_
 
 ![This is an image](https://cdn.substack.com/image/fetch/w_600,h_314,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2acbc7f-d9b5-49be-ba39-ca849c24cb9d_1024x576.png)
 ##### Image Credit: BBC News
