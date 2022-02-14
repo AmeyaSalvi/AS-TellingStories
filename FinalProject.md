@@ -21,12 +21,21 @@ I hope to use the data and create visual that can help the readers easily unders
 
 
 > ## Step 3: Initial sketches:
+#### Sketch 1: This sketch is a stacked bar-graph was to basically identify how women are represented in various categories and countries.
 <img width="700" src="https://user-images.githubusercontent.com/43436738/153784628-0c0a193d-2dd9-4936-a2ed-81ff2e36d1d3.PNG">
+
+#### Sketch 2: This sketch is a stacked bar-graph was to basically identify give an overall idea of disticntion between different categories.
 <img width="700" src="https://user-images.githubusercontent.com/43436738/153784637-0263e587-4aba-4afa-aa37-982693c43d64.PNG">
+
+#### Sketch 3: Using the polarity indicator (how sensational is the news?) to understand the distinction between other news and the women oriented ones.
 <img width="700" src="https://user-images.githubusercontent.com/43436738/153785105-c6c463cc-b9e0-483e-b29c-8dc301246635.PNG">
+
+#### Sketch 4: Utilizing different platforms to identify which of them used the most polarizing content for women.
 <img width="700" src="https://user-images.githubusercontent.com/43436738/153785108-3a78a9ff-aa37-4e26-a4e5-9c0dae151417.PNG">
 
 > ## Step 4: Method and Medium:
-I envision to create the visuals in Tableau. These visuals would help me to create depictions that I feel and try to incorporate the same in the form of a storyline. Using Shorthand I want to incorporate these visuals and insights to create a story.
+- I envision to create the above visuals in Tableau.
+- These visuals would help me to create depictions that I feel and try to incorporate the same in the form of a storyline. 
+- Using Shorthand I want to incorporate these visuals and insights to create a story.
 
 
