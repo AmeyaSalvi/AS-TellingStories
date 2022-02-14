@@ -1,4 +1,4 @@
-## Final Project: Women making the news
+# _Final Project: Women making the news_
 
 ### The Initial Steps: 
 > ## Step 1: The outline:
