@@ -17,12 +17,16 @@ And how have headlines about women changed over time?_
 ### Using the data:
 I hope to use the data and create visual that can help the readers easily understand and view how women representation has occurred & changed overtime. Because the representation of women in headlines is majorly in form of texts (Newspapers and Magazines) or Audio (News Channels, podcasts), a really good database and an informative visual can help the viewers to accurately understand how women continue to be represented. I hope to depict representations across different regions or countries, the polarity (positive or negative) and the biases still present in the news selling industry.
 
-##### Link to the Datasource:  https://github.com/the-pudding/data/tree/master/women-in-headlines
+##### Link to the Datasource: https://github.com/the-pudding/data/tree/master/women-in-headlines
 
 
-> ## Step 4: Initial sketches:
+> ## Step 3: Initial sketches:
+<img width="700" src="https://user-images.githubusercontent.com/43436738/153784628-0c0a193d-2dd9-4936-a2ed-81ff2e36d1d3.PNG">
+<img width="700" src="https://user-images.githubusercontent.com/43436738/153784637-0263e587-4aba-4afa-aa37-982693c43d64.PNG">
+<img width="700" src="https://user-images.githubusercontent.com/43436738/153784644-6be39586-9f13-4843-a81d-4332b4a985a2.PNG">
+<img width="700" src="https://user-images.githubusercontent.com/43436738/153784648-104335cf-4320-4d7b-b477-bf5da6c344e0.PNG">
 
-> ## Step 3: Method and Medium:
+> ## Step 4: Method and Medium:
 I envision to create the visuals in Tableau. These visuals would help me to create depictions that I feel and try to incorporate the same in the form of a storyline. Using Shorthand I want to incorporate these visuals and insights to create a story.
 
 
