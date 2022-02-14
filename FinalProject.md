@@ -20,3 +20,9 @@ I hope to use the data and create visual that can help the readers easily unders
 ##### Link to the Datasource:  https://github.com/the-pudding/data/tree/master/women-in-headlines
 
 
+> ## Step 4: Initial sketches:
+
+> ## Step 3: Method and Medium:
+I envision to create the visuals in Tableau. These visuals would help me to create depictions that I feel and try to incorporate the same in the form of a storyline. Using Shorthand I want to incorporate these visuals and insights to create a story.
+
+
