@@ -17,7 +17,7 @@ And how have headlines about women changed over time?_
 ### Using the data:
 I hope to use the data and create visual that can help the readers easily understand and view how women representation has occurred & changed overtime. Because the representation of women in headlines is majorly in form of texts (Newspapers and Magazines) or Audio (News Channels, podcasts), a really good database and an informative visual can help the viewers to accurately understand how women continue to be represented. I hope to depict representations across different regions or countries, the polarity (positive or negative) and the biases still present in the news selling industry.
 
-##### Link to the Datasource: https://github.com/the-pudding/data/tree/master/women-in-headlines
+##### Link to the Datasource: [Here](https://github.com/the-pudding/data/tree/master/women-in-headlines)
 
 
 > ## Step 3: Initial sketches:
