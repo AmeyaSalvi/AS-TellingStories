@@ -23,8 +23,8 @@ I hope to use the data and create visual that can help the readers easily unders
 > ## Step 3: Initial sketches:
 <img width="700" src="https://user-images.githubusercontent.com/43436738/153784628-0c0a193d-2dd9-4936-a2ed-81ff2e36d1d3.PNG">
 <img width="700" src="https://user-images.githubusercontent.com/43436738/153784637-0263e587-4aba-4afa-aa37-982693c43d64.PNG">
-<img width="700" src="https://user-images.githubusercontent.com/43436738/153784644-6be39586-9f13-4843-a81d-4332b4a985a2.PNG">
-<img width="700" src="https://user-images.githubusercontent.com/43436738/153784648-104335cf-4320-4d7b-b477-bf5da6c344e0.PNG">
+<img width="700" src="https://user-images.githubusercontent.com/43436738/153785105-c6c463cc-b9e0-483e-b29c-8dc301246635.PNG">
+<img width="700" src="https://user-images.githubusercontent.com/43436738/153785108-3a78a9ff-aa37-4e26-a4e5-9c0dae151417.PNG">
 
 > ## Step 4: Method and Medium:
 I envision to create the visuals in Tableau. These visuals would help me to create depictions that I feel and try to incorporate the same in the form of a storyline. Using Shorthand I want to incorporate these visuals and insights to create a story.
