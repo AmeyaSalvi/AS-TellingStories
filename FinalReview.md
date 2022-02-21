@@ -9,16 +9,16 @@ I hope to depict representations across different regions or countries, the pola
 - A conclusion / Ending my story?
 
 # Number 3: Tools
-Data Visualization: Tableau (Link)
-Presentation: Shorthand
+- Data Visualization: Tableau (Link)
+- Presentation: Shorthand
 
 # Number 4: The content
 - *The title: Making the cut – (Mis)Representation of women in the news*
 - *The visuals:*
 
-### Visual 1: Word-cloud
-#### Most common words associate with the word Women (and similar words like lady etc.) in the news.*
-I thought of creating a word cloud of the most common words that are associated with the word women. It is intended to make an introduction to the topic and to show an introductory bias. 
+## Visual 1: Word-cloud
+### Most common words associate with the word Women (and similar words like lady etc.) in the news.
+> I thought of creating a word cloud of the most common words that are associated with the word women. It is intended to make an introduction to the topic and to show an introductory bias. 
 
 
 
@@ -26,31 +26,31 @@ I thought of creating a word cloud of the most common words that are associated 
 
 *Diving-into the data!*
 
-### Visual 2: Bar-graph
-#### Bucketing the above words into categories + Percentage distribution of the words across categories (% of total) 
-- The thought is to categorize these above given words in large buckets such as stereotypes, Crime & Violence, Race, and Identity, to give an easy interpretation of the categories of words that are commonly associated with women.
+## Visual 2: Bar-graph
+### Bucketing the above words into categories + Percentage distribution of the words across categories (% of total) 
+> The thought is to categorize these above given words in large buckets such as stereotypes, Crime & Violence, Race, and Identity, to give an easy interpretation of the categories of words that are commonly associated with women.
 
 
 
 
-### Visual 3: Line-chart
-##### SENSATIONALIZING women-oriented news
-- This visual is to compare the polarity index (Calculated as extreme positive or negative news), to all the news versus news that are associated with women. Hence a simple line graph across the years would give a good overall insight.
+## Visual 3: Line-chart
+### SENSATIONALIZING women-oriented news
+> This visual is to compare the polarity index (Calculated as extreme positive or negative news), to all the news versus news that are associated with women. Hence a simple line graph across the years would give a good overall insight.
 
-### Visual 4: Scatterplot
-#### How do famous news outlets compare to each other? (Indicates how is the news sold out to globe)
-- The visualization compares the polarity index of all the news versus news that are associated with women, across different news outlets . Hence, the scatter plot will allow us to see that most of the news-outlets that sell majority of news, fall into the category of having a higher women-polarized news as compared to the others.
+## Visual 4: Scatterplot
+### How do famous news outlets compare to each other? (Indicates how is the news sold out to globe)
+> The visualization compares the polarity index of all the news versus news that are associated with women, across different news outlets . Hence, the scatter plot will allow us to see that most of the news-outlets that sell majority of news, fall into the category of having a higher women-polarized news as compared to the others.
 
 
-#### *Conclusion*
-### Visual 5: Line-chart
-#### How has it changed over the years? Is it really even changing?
-- This seems to be the last visual of our storyline which aims to show the average number of times categorized or polarized words are being used for women. It’ll track the trend over the years and see whether there is a change or not.
-.
+### *Conclusion*
+## Visual 5: Line-chart
+### How has it changed over the years? Is it really even changing?
+> This seems to be the last visual of our storyline which aims to show the average number of times categorized or polarized words are being used for women. It’ll track the trend over the years and see whether there is a change or not.
 
-# Draft Storyline: 
 
-Title:  
+# Number 5: Draft Storyline (Under a minute!)
+
+Title: Making the cut – (Mis)Representation of women in the news
 
 Introduction: 
 Women were found to make up just 24% of news subjects and sources reported.
@@ -90,17 +90,17 @@ Over time, especially post 2019 we see that the use of some gender stereotypes h
 
 
 # User Research
-a. Target audience for my story:
--	Being a woman, this topic is something I thought that really caught my eye. In my opinion, biases present against women in every industry is a subject matter of concern. The news industry is one massive source and medium to create, depict and inform stories, news & facts to people and connect them across the globe. Hence creating visualizations depicting the bias in this industry, should/could be a topic of interest to basically all individuals. 
+> Target audience for my story:
+Being a woman, this topic is something I thought that really caught my eye. In my opinion, biases present against women in every industry is a subject matter of concern. The news industry is one massive source and medium to create, depict and inform stories, news & facts to people and connect them across the globe. Hence creating visualizations depicting the bias in this industry, should/could be a topic of interest to basically all individuals. 
 
-b. My approach to identify representative individuals to interview:
--	I hoped to identify different individuals to review my rough sketches/visuals, with an aim to receive different perspectives of my sketch attempts and also to gain different insights on what could be done better. 
--	The 3 individuals I interviewed were:
+> My approach to identify representative individuals to interview:
+I hoped to identify different individuals to review my rough sketches/visuals, with an aim to receive different perspectives of my sketch attempts and also to gain different insights on what could be done better. 
+The 3 individuals I interviewed were:
 1.	Student (Fellow CMU buddy)
 2.	An acquaintance who works in the news/media Industry
 3.	A colleague who leads the Data Visualization team
 
-c.	Interview script:
+> Interview script:
 1.	Can you tell me what do you think this is?
 2.	What can you take out form these visualizations?
 3.	Is there a story that you see?
@@ -108,17 +108,17 @@ c.	Interview script:
 5.	Is there anything else you would want to see? If yes, what?
 6.	Is there a good flow from one visual to other or does it leave you confused?
 7.	Overall, is the entire storyline impactful enough?
--	
-d. Findings from my interviews:
+
+> Findings from my interviews:
 My findings:
 The responses from my interviews me to work on the following:
-1.	The introductory % fact: The initial fact of 24% of women being represented in the news could be indicted as an infographic rather than a statement, for more visual impact.
-2.	The flow: Overall response for the flow of the story was good, but the responses probably indicated that it could be better. Moving from one visual to other could be smoother and more informative.
-3.	The Data Visual explanation: The explanation or description for the visuals could be stronger and more informative, so that it takes lesser time for the audience to grasp and understand what the visual want to say.
-4.	Conclusion visual: There is one conclusion visual which shows the reduction in the 
+1.	**The introductory % fact**: The initial fact of 24% of women being represented in the news could be indicted as an infographic rather than a statement, for more visual impact.
+2.	**The story-line flow**: Overall response for the flow of the story was good, but the responses probably indicated that it could be better. Moving from one visual to other could be smoother and more informative.
+3.	**The Data Visual explanation**: The explanation or description for the visuals could be stronger and more informative, so that it takes lesser time for the audience to grasp and understand what the visual want to say.
+4.	**Conclusion visual**: There is one conclusion visual which shows the reduction in the 
 e biases present in the industry. Additionally, could there be some other impactful conclusional visual too?
 
-d.	Changes you plan on implementing to your visualizations next week to address the issues identified. 
+> Changes you plan on implementing to your visualizations next week to address the issues identified. 
 - Finding more content on the conclusion: Creating a good visual to summarise the intended topic
 - Work on the current visuals to establish a better story-flow
 - Improve the current visual explanation so that the audience grasps it quicker
