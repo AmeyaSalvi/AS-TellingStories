@@ -16,13 +16,13 @@ I hope to depict representations across different regions or countries, the pola
 - *The title: Making the cut – (Mis)Representation of women in the news*
 - *The visuals:*
 
-### *Introducing the audience* :speech_balloon:
+### *Introducing the audience* 
 ## Visual 1: Word-cloud
 ### Most common words associate with the word Women (and similar words like lady etc.) in the news.
 > I thought of creating a word cloud of the most common words that are associated with the word women. It is intended to make an introduction to the topic and to show an introductory bias. 
 <img width="500" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041452-2810b34a-35d2-4e3d-bc6e-79e96dd28576.PNG">
 
-### *Diving-into the story!* :sweat_drops:
+### *Diving-into the story!* 
 ## Visual 2: Bar-graph
 ### Bucketing the above words into categories + Percentage distribution of the words across categories (% of total) 
 > The thought is to categorize these above given words in large buckets such as stereotypes, Crime & Violence, Race, and Identity, to give an easy interpretation of the categories of words that are commonly associated with women.
@@ -45,14 +45,14 @@ I hope to depict representations across different regions or countries, the pola
 <img width="550" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041449-30c72526-1266-4855-b435-8513a639b80b.PNG">
 
 
-### *Conclusion* :man_technologist:
+### *Conclusion* 
 ## Visual 5: Line-chart
 ### How has it changed over the years? Is it really even changing?
 > This seems to be the last visual of our storyline which aims to show the average number of times categorized or polarized words are being used for women. It’ll track the trend over the years and see whether there is a change or not.
 
 <img width="550" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041451-fa0b5b36-e285-49d1-93b8-c7fe6e86bbcc.PNG">
 
-# Number 5: Draft storyboard (Under a minute!) :hourglass:
+# Number 5: Draft storyboard (Under a minute!) 
 Tools: Tableau
 
 Title: Making the cut – (Mis)Representation of women in the news
@@ -98,7 +98,7 @@ Over time, especially post 2019 we see that the use of some gender stereotypes h
 <img width="500" alt="Picture1" src="https://user-images.githubusercontent.com/43436738/155163630-65252ef8-fdad-470a-b9d2-06b88b62485d.png">
 
 
-# User Research :gear:
+# User Research 
 > Target audience for my story:
 Being a woman, this topic is something I thought that really caught my eye. In my opinion, biases present against women in every industry is a subject matter of concern. The news industry is one massive source and medium to create, depict and inform stories, news & facts to people and connect them across the globe. Hence creating visualizations depicting the bias in this industry, should/could be a topic of interest to basically all individuals. 
 
