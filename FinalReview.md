@@ -27,7 +27,7 @@ I hope to depict representations across different regions or countries, the pola
 ### Bucketing the above words into categories + Percentage distribution of the words across categories (% of total) 
 > The thought is to categorize these above given words in large buckets such as stereotypes, Crime & Violence, Race, and Identity, to give an easy interpretation of the categories of words that are commonly associated with women.
 
-<img width="500" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041446-66cfb534-4623-4620-98e4-699bf6ccc8fd.PNG">
+<img width="550" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041446-66cfb534-4623-4620-98e4-699bf6ccc8fd.PNG">
 
 
 
@@ -35,14 +35,14 @@ I hope to depict representations across different regions or countries, the pola
 ### SENSATIONALIZING women-oriented news
 > This visual is to compare the polarity index (Calculated as extreme positive or negative news), to all the news versus news that are associated with women. Hence a simple line graph across the years would give a good overall insight.
 
-<img width="500" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041448-af0ea3de-5d91-4225-ac24-156deae6e291.PNG">
+<img width="550" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041448-af0ea3de-5d91-4225-ac24-156deae6e291.PNG">
 
 ## Visual 4: Scatterplot
 ### How do famous news outlets compare to each other? (Indicates how is the news sold out to globe)
 > The visualization compares the polarity index of all the news versus news that are associated with women, across different news outlets . Hence, the scatter plot will allow us to see that most of the news-outlets that sell majority of news, fall into the category of having a higher women-polarized news as compared to the others.
 
 
-<img width="500" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041449-30c72526-1266-4855-b435-8513a639b80b.PNG">
+<img width="550" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041449-30c72526-1266-4855-b435-8513a639b80b.PNG">
 
 
 ### *Conclusion* :man_technologist:
@@ -50,9 +50,10 @@ I hope to depict representations across different regions or countries, the pola
 ### How has it changed over the years? Is it really even changing?
 > This seems to be the last visual of our storyline which aims to show the average number of times categorized or polarized words are being used for women. It’ll track the trend over the years and see whether there is a change or not.
 
-<img width="500" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041451-fa0b5b36-e285-49d1-93b8-c7fe6e86bbcc.PNG">
+<img width="550" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041451-fa0b5b36-e285-49d1-93b8-c7fe6e86bbcc.PNG">
 
 # Number 5: Draft storyboard (Under a minute!) :hourglass:
+Tools: Tableau
 
 Title: Making the cut – (Mis)Representation of women in the news
 
@@ -64,36 +65,40 @@ And how have headlines about women changed over time?
 
 We began with seeing the most common words that are associated with the word women (and other similar words such as lady, daughter etc.), repeatedly used worldwide across all global platforms. 
 
-<img width="452" alt="P1" src="https://user-images.githubusercontent.com/43436738/155035942-bc1bec5d-baa2-406c-8947-75fe226d0587.png">
+<img width="550" alt="P1" src="https://user-images.githubusercontent.com/43436738/155035942-bc1bec5d-baa2-406c-8947-75fe226d0587.png">
 
 Yes, you must notice that most of the words that have been used here would fall under the categories of either Female Stereotyping, associating women with a particular race/identity or selling out news associated with crime and violence.
 Here is the distribution for the same. We see most of the words fall under the Female stereotyping bracket followed by the categories of Empowerment, Crime, and Identity.
 
-<img width="401" alt="P2" src="https://user-images.githubusercontent.com/43436738/155036652-df51c64e-7034-495c-85a8-0043c171fed6.png">
-<img width="402" alt="P3" src="https://user-images.githubusercontent.com/43436738/155036663-af1ff6da-8386-4159-baff-9285932e9657.png">
+<img width="550" alt="P2" src="https://user-images.githubusercontent.com/43436738/155036652-df51c64e-7034-495c-85a8-0043c171fed6.png">
+<img width="550" alt="P3" src="https://user-images.githubusercontent.com/43436738/155036663-af1ff6da-8386-4159-baff-9285932e9657.png">
 
 But this makes me wonder is the news sensationalism prominent in women-focused headlines? 
 If the news is positive or extremely negative, it is considered sensational, and hence it is given a higher polarity score. As it turns out, not only is sensationalism on the rise, but it has also been consistently higher in headlines with keywords associated with women, as opposed to headlines about other topics.
 
-<img width="452" alt="P4" src="https://user-images.githubusercontent.com/43436738/155036666-c084be76-125a-4a7f-867c-9ac4f3574f0e.png">
+<img width="550" alt="P4" src="https://user-images.githubusercontent.com/43436738/155036666-c084be76-125a-4a7f-867c-9ac4f3574f0e.png">
 
 This also makes me wonder, how do different news outlets compare to each other? Hence, here I compare the countries USA, UK , India & South Africa, and try mapping the polarity for all news v/s women-oriented news. A seen a chunk of the cluster has their polarity higher for women as compared to the rest.
 
-<img width="416" alt="P5" src="https://user-images.githubusercontent.com/43436738/155036680-bdc75496-98d9-4b4c-bdd4-b878acade179.png">
+<img width="550" alt="P5" src="https://user-images.githubusercontent.com/43436738/155036680-bdc75496-98d9-4b4c-bdd4-b878acade179.png">
 
 As seen, most of the top news companies have a high average polarity for women as compared to the others.
 
 Has the usage of words used in headlines about women have changed over time? 
 Thus, we look at the average number of times categorized words are used across the years.
 
-<img width="479" alt="P6" src="https://user-images.githubusercontent.com/43436738/155036692-0ca29c76-d3be-40d5-bb65-96b5f7886183.png">
+<img width="550" alt="P6" src="https://user-images.githubusercontent.com/43436738/155036692-0ca29c76-d3be-40d5-bb65-96b5f7886183.png">
 
 Nonetheless, this visual essay also suggests that some progress has been made. 
 
 Over time, especially post 2019 we see that the use of some gender stereotypes has plummeted. Let’s hope this trend continues and, in the meantime, enjoy our news with a little grain of salt.
 
+**Working on my shorthand view looks something like this:** 
 
-# User Research
+<img width="500" alt="Picture1" src="https://user-images.githubusercontent.com/43436738/155163630-65252ef8-fdad-470a-b9d2-06b88b62485d.png">
+
+
+# User Research :gear:
 > Target audience for my story:
 Being a woman, this topic is something I thought that really caught my eye. In my opinion, biases present against women in every industry is a subject matter of concern. The news industry is one massive source and medium to create, depict and inform stories, news & facts to people and connect them across the globe. Hence creating visualizations depicting the bias in this industry, should/could be a topic of interest to basically all individuals. 
 
