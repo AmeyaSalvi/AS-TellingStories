@@ -87,7 +87,7 @@ I can also see more of the orange and pink bubbles, which indicate USA and UK po
 
 As seen, most of the top news companies have a high average polarity for women as compared to the others.
 
-Finally, I guesa we would want to know has the usage of words used in headlines about women have changed over time? 
+Finally, I guess we would want to know has the usage of words used in headlines about women have changed over time? 
 Thus, we look at the average number of times categorized words are used across the years.
 
 <img width="550" alt="P6" src="https://user-images.githubusercontent.com/43436738/155036692-0ca29c76-d3be-40d5-bb65-96b5f7886183.png">
