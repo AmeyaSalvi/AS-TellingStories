@@ -53,11 +53,12 @@ I hope to depict representations across different regions or countries, the pola
 <img width="550" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041451-fa0b5b36-e285-49d1-93b8-c7fe6e86bbcc.PNG">
 
 # Number 5: Draft storyboard (Under a minute!) 
-Tools: Tableau
+### Below are the above visualizations created in Tableau, along with the textual content that will create a story!
+**Tools**: Tableau
 
-Title: Making the cut – (Mis)Representation of women in the news
+**Title:** Making the cut – (Mis)Representation of women in the news
 
-Introduction: 
+**Introduction:**
 Women were found to make up just 24% of news subjects and sources reported.
 
 So, if women are underrepresented in the news to begin with, what does it look like when women do make headlines? 
@@ -92,6 +93,11 @@ Thus, we look at the average number of times categorized words are used across t
 Nonetheless, this visual essay also suggests that some progress has been made. 
 
 Over time, especially post 2019 we see that the use of some gender stereotypes has plummeted. Let’s hope this trend continues and, in the meantime, enjoy our news with a little grain of salt.
+
+
+**What I envision my shorthand visual will look like:** 
+
+<img width="500" alt="picture2" src="https://user-images.githubusercontent.com/43436738/155167832-89f8aab1-f891-4c8d-9e07-375686b2a04a.PNG">
 
 **Working on my shorthand view looks something like this:** 
 
