@@ -81,12 +81,13 @@ If the news is positive or extremely negative, it is considered sensational, and
 <img width="550" alt="P4" src="https://user-images.githubusercontent.com/43436738/155036666-c084be76-125a-4a7f-867c-9ac4f3574f0e.png">
 
 This also makes me wonder, how do different news outlets compare to each other? Hence, here I compare the countries USA, UK , India & South Africa, and try mapping the polarity for all news v/s women-oriented news. A seen a chunk of the cluster has their polarity higher for women as compared to the rest.
+I can also see more of the orange and pink bubbles, which indicate USA and UK polarise the news, the most.
 
 <img width="550" alt="P5" src="https://user-images.githubusercontent.com/43436738/155036680-bdc75496-98d9-4b4c-bdd4-b878acade179.png">
 
 As seen, most of the top news companies have a high average polarity for women as compared to the others.
 
-Has the usage of words used in headlines about women have changed over time? 
+Finally, I guesa we would want to know has the usage of words used in headlines about women have changed over time? 
 Thus, we look at the average number of times categorized words are used across the years.
 
 <img width="550" alt="P6" src="https://user-images.githubusercontent.com/43436738/155036692-0ca29c76-d3be-40d5-bb65-96b5f7886183.png">
