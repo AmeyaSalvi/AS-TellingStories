@@ -19,7 +19,8 @@ I hope to depict representations across different regions or countries, the pola
 ### *Introducing the audience* 
 ## Visual 1: Word-cloud
 ### Most common words associate with the word Women (and similar words like lady etc.) in the news.
-> I thought of creating a word cloud of the most common words that are associated with the word women. It is intended to make an introduction to the topic and to show an introductory bias. 
+> I thought of creating a word cloud of the most common words that are associated with the word women. It is intended to make an introduction to the topic and to show an introductory bias.
+ 
 <img width="500" alt="P1" src="https://user-images.githubusercontent.com/43436738/155041452-2810b34a-35d2-4e3d-bc6e-79e96dd28576.PNG">
 
 ### *Diving-into the story!* 
