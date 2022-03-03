@@ -56,3 +56,10 @@
 
 <img width="900" alt="info" src="https://user-images.githubusercontent.com/43436738/156485876-1e643a00-ad42-4988-a65b-3c4f48bdb645.png">
 
+###  Number 2: Defining certain metrics used in my visuals:
+** I definde and explained the different metrics sued in my visuals for simplicity (Eg. polarity and sensationalism).
+
+###  Number 3: Framing a strong call for action:
+** I tried curating certain links that would potentially help in accessing the most authentic and real form of women oriented news, which encourage and voice strong, empowered voices.
+
+<img width="851" alt="content" src="https://user-images.githubusercontent.com/43436738/156486747-925eddbb-09ba-4626-a80d-39f8dbb7ec22.png">
