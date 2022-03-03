@@ -1,3 +1,4 @@
+# * _Utlizing Part 1 & Part 2:_
 ### 1.	Using Part 1: (Rough visuals)
 
 -	The initial sketches that I created in part1 formed the base of the visualisations that had to created.
@@ -10,7 +11,7 @@
 -	I realized in the Part 2, I wanted the story to be surrounded around the topic of Misrepresentation and biases of Women In the news.
 -	The visualizations I created in tableau, gave me a concrete idea of the story-flow that I envisioned to create.
 
-## _Creating the shorthand story:_
+# * _Creating the shorthand story:_
 
 **1. Creating the Visuals**
 - The raw visuals in part 1 and initial visualizations in Part 2 helped me to get an idea of the visualizations I wanted to create. 
@@ -43,14 +44,14 @@
 -	Hence, I wanted every user/reader to take out insights on what I want to convey.
 -	Additionally, I wanted to associate my intended storyline to the audience who work in the news, media, and entertainment industry with an intent that the audience becomes aware of the disparity present and becomes more aware and mindful of their actions.\
 
-# Design decisions: (Shorthand)
-### I wanted to create some interesting infographics and visuals that can grab user attention, for example:
-### Number 1: Infograph represnting the 25% of the news representation.
+# * _Design decisions: (Shorthand)_
+###  Number 1: I wanted to create some interesting infographics and visuals that can grab user attention, for example:
+### a) Infograph represnting the 25% of the news representation.
 **Here, I tried created this infographic using canva that gives an illusion of 1/4th of the newspaper being torn.**
 
 <img src="https://user-images.githubusercontent.com/43436738/156484777-529ebfe7-ff65-4cac-8f9e-2c8e597968df.jpg" width=400 height=300>
 
-### Number 2: Infograph represnting a country flag represntation.
+### b) Infograph represnting a country flag represntation.
 **I tried creating a infographic synopsis of the insights of the polarity scatter plot on the right:**
 
 <img width="900" alt="info" src="https://user-images.githubusercontent.com/43436738/156485876-1e643a00-ad42-4988-a65b-3c4f48bdb645.png">
