@@ -1,4 +1,5 @@
 # Final Part: (Mis)Represenattion of Women in the news
+**Link: https://carnegiemellon.shorthandstories.com/mis-representation-of-women-in-the-newsby-ameya-salvi/index.html**
 
 # * _Utlizing Part 1 & Part 2:_
 ### 1.	Using Part 1: (Rough visuals)
@@ -32,6 +33,14 @@
 - The colours that were chosen were cohesively tie the visuals each other rand the story.
 -	I tried to use less of variation in the colour tones, to stay on topic and not distract the users from the synopsis of the topic that I wanted to convey.
 
+**Used ColorBrewer:** ColorBrewer helped to understand various colour combinations and also palettes that can be used that are colourblind and print friendly.
+
+<img width="500" alt="i1" src="https://user-images.githubusercontent.com/43436738/156489440-16c31a40-7f2c-4865-81db-452e33dcd24d.png">  
+<img width="500" alt="Sheet 8 (2)" src="https://user-images.githubusercontent.com/43436738/156489396-76ab4025-f2f1-4d7e-8a4a-80ae3d950e51.png">
+
+
+
+
 **b)	Creating a more engaging and appealing storyline:**
 -	There were some elements that tied together, and some didn’t.
 -	Hence, as per part 2 assignment recommendations, I wanted to build a storyline that was seamless and easy to understand and that tied well with the visuals.
@@ -49,12 +58,12 @@
 
 # * _Design decisions: (Shorthand)_
 ###  Number 1: I wanted to create some interesting infographics and visuals that can grab user attention, for example:
-### a) Infograph represnting the 25% of the news representation.
+### a) Infograph showing the 25% of the news representation.
 **Here, I tried created this infographic using canva that gives an illusion of 1/4th of the newspaper being torn.**
 
 <img src="https://user-images.githubusercontent.com/43436738/156484777-529ebfe7-ff65-4cac-8f9e-2c8e597968df.jpg" width=400 height=300>
 
-### b) Infograph represnting a country flag represntation.
+### b) Infograph showing a country flag representation.
 **I tried creating a infographic synopsis of the insights of the polarity scatter plot on the right:**
 
 <img width="900" alt="info" src="https://user-images.githubusercontent.com/43436738/156485876-1e643a00-ad42-4988-a65b-3c4f48bdb645.png">
@@ -62,7 +71,7 @@
 ###  Number 2: Defining certain metrics used in my visuals:
 **I defined and explained the different metrics sued in my visuals for simplicity (Eg. polarity and sensationalism).**
 
-###  Number 3: Creating/choosing better charts for represenatations:
+###  Number 3: Creating/choosing better charts for representations:
 Here, as seen I switched from bar chart to the pie chart to create a more concise representation of the category distribution.
 
 ## From Barchart to Piechart
