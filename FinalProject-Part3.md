@@ -1,4 +1,5 @@
-# Final Part: (Mis)Represenattion of Women in the news ([Link](https://carnegiemellon.shorthandstories.com/mis-representation-of-women-in-the-newsby-ameya-salvi/index.html))
+# Final Part: (Mis)Represenattion of Women in the news 
+# [Link](https://carnegiemellon.shorthandstories.com/mis-representation-of-women-in-the-newsby-ameya-salvi/index.html)
 
 # * _Summary:_
 **The data and visuals used in creating this shorthand story show the disparity of women-oriented news. The process of creating this shorthand presentation included redefining designs, visuals, and workflows across several iterations, a few which are document below. The final presentation includes graphics, insights and action-items tied into a story which indicates the Misrepresentation of women in the news.**
