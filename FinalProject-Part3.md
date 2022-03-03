@@ -43,13 +43,15 @@
 -	Hence, I wanted every user/reader to take out insights on what I want to convey.
 -	Additionally, I wanted to associate my intended storyline to the audience who work in the news, media, and entertainment industry with an intent that the audience becomes aware of the disparity present and becomes more aware and mindful of their actions.\
 
-Design decisions: (Shorthand)
+# Design decisions: (Shorthand)
 ### I wanted to create some interesting infographics and visuals that can grab user attention, for example:
-**Number 1: Infograph represnting the 25% of the news representation**
-Here, I tried created this infographic using canva that gives an illusion of 1/4th of the newspaper being torn.
+### Number 1: Infograph represnting the 25% of the news representation.
+**Here, I tried created this infographic using canva that gives an illusion of 1/4th of the newspaper being torn.**
 
 <img src="https://user-images.githubusercontent.com/43436738/156484777-529ebfe7-ff65-4cac-8f9e-2c8e597968df.jpg" width=400 height=300>
 
-**Number 2: Infograph represnting the 25% of the news representation**
-<img src="https://user-images.githubusercontent.com/43436738/156485876-1e643a00-ad42-4988-a65b-3c4f48bdb645.png" width=500 height=800>
+### Number 2: Infograph represnting a country flag represntation.
+**I tried creating a infographic synopsis of the insights of the polarity scatter plot on the right:**
+
+<img width="900" alt="info" src="https://user-images.githubusercontent.com/43436738/156485876-1e643a00-ad42-4988-a65b-3c4f48bdb645.png">
 
