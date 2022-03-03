@@ -51,6 +51,8 @@
 -	I realized that some essential definitions and descriptions were missing from my storyboard that needed to be included to give a clearer idea of the content that was being showed.
 -	There were several ideas that were not distinctively conceptualized which created unclear concepts for the audiences from different backgrounds.
 
+<img src="https://user-images.githubusercontent.com/43436738/156491793-074ae317-39fc-4ba7-8a9e-4b1627140457.PNG" width=500 height=500>
+
 **d)	Identification as the audience for the final data story**
 -	There is an open audience for this content because it is intended to educate the audience about the disparity present in the news associated with women and other news.
 -	Hence, I wanted every user/reader to take out insights on what I want to convey.
