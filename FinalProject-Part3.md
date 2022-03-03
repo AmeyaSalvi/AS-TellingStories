@@ -1,9 +1,12 @@
+# Final Part: (Mis)Represenattion of Women in the news
+
 # * _Utlizing Part 1 & Part 2:_
 ### 1.	Using Part 1: (Rough visuals)
 
--	The initial sketches that I created in part1 formed the base of the visualisations that had to created.
+-	The initial sketches that I created in part 1 formed the base of the visualisations that had to created.
 - The data and visuals were surrounded around the data associated with Women biases around the news and I was hoping to capture the same.
 -	The visual skeleton of the data visualizations that were supposed to be created gave me a really good insight on setting up a base for creating a story.
+
 
 ### 2.	Using part 2: (Initial Tableau visuals and Raw Data-story)
 
@@ -42,7 +45,7 @@
 **d)	Identification as the audience for the final data story**
 -	There is an open audience for this content because it is intended to educate the audience about the disparity present in the news associated with women and other news.
 -	Hence, I wanted every user/reader to take out insights on what I want to convey.
--	Additionally, I wanted to associate my intended storyline to the audience who work in the news, media, and entertainment industry with an intent that the audience becomes aware of the disparity present and becomes more aware and mindful of their actions.\
+-	Additionally, I wanted to associate my intended storyline to the audience who work in the news, media, and entertainment industry with an intent that the audience becomes aware of the disparity present and becomes more aware and mindful of their actions.
 
 # * _Design decisions: (Shorthand)_
 ###  Number 1: I wanted to create some interesting infographics and visuals that can grab user attention, for example:
@@ -57,9 +60,16 @@
 <img width="900" alt="info" src="https://user-images.githubusercontent.com/43436738/156485876-1e643a00-ad42-4988-a65b-3c4f48bdb645.png">
 
 ###  Number 2: Defining certain metrics used in my visuals:
-** I definde and explained the different metrics sued in my visuals for simplicity (Eg. polarity and sensationalism).
+**I defined and explained the different metrics sued in my visuals for simplicity (Eg. polarity and sensationalism).**
 
-###  Number 3: Framing a strong call for action:
-** I tried curating certain links that would potentially help in accessing the most authentic and real form of women oriented news, which encourage and voice strong, empowered voices.
+###  Number 3: Creating/choosing better charts for represenatations:
+Here, as seen I switched from bar chart to the pie chart to create a more concise representation of the category distribution.
+
+## From Barchart to Piechart
+<img width="516" alt="t1" src="https://user-images.githubusercontent.com/43436738/156488487-0f23afec-9bed-470a-91ae-5c3e6c4ac7bd.png">   <img width="388" alt="t2" src="https://user-images.githubusercontent.com/43436738/156488465-51d8f76c-2b9b-4495-8be6-06d3957439f5.png">
+
+
+###  Number 4: Framing a strong call for action:
+**I tried curating certain links that would potentially help in accessing the most authentic and real form of women oriented news, which encourage and voice strong, empowered voices.**
 
 <img width="851" alt="content" src="https://user-images.githubusercontent.com/43436738/156486747-925eddbb-09ba-4626-a80d-39f8dbb7ec22.png">
