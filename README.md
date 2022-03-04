@@ -14,7 +14,8 @@ My aim is to master the skill of _visual art_ that grabs our interest and keeps 
 While we know that the data and the visuals need to work together, I attempt everday is to master the art of combining great analysis with great storytelling.
 
 # Portfolio
-My cool work!
+Here are the links to each stage of the visualtions practices for "Storytelling with data"!
+
 - _Task #1: Visualizing government debt_: [Click here](Visual.md)
 - _Task #2: Re-designing a visual_: [Click here](Visual2.md)
 - _Task #3: Project Part 1 Draft Visuals_: [Click here](FinalProject.md)
